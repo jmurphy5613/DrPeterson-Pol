@@ -1,0 +1,54 @@
+.root {
+    height: 100vh;
+    width: 100vw;
+    background-color: #282c44;
+  }
+  
+  .title-wrapper {
+    padding-top: 17rem;
+    padding-left: 15rem;
+  }
+  
+  .title {
+    padding: 0;
+    margin: 0;
+    color: white;
+    font-family: 'Inter';
+    font-size: 3rem;
+    margin-top: 1rem;
+  }
+  
+  .description {
+    font-family: 'Noto Sans';
+    color: #B2BAC2;
+  }
+  
+  .intro {
+    font-family: 'Poppins';
+    margin: 0;
+    color: #FE5B77;
+    font-weight: 200;
+  }
+  
+  .teacher-button {
+    background-color: #6C56D2;
+    border: none;
+    color: white;
+    font-family: 'Inter';
+    height: 3rem;
+    width: 12rem;
+    font-weight: 500;
+    border-radius: 5px;
+  }
+  
+  .student-button {
+    background-color: transparent;
+    border: 1px solid #6C56D2;
+    color: white;
+    font-family: 'Inter';
+    height: 3rem;
+    width: 12rem;
+    font-weight: 500;
+    border-radius: 5px;
+    margin-left: 2rem;
+  }
